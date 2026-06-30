@@ -56,10 +56,6 @@ Then simply open `index.html` in your browser — no build step or server requir
 4. If no character type is selected, an error message is shown and no password is generated.
 5. A strength meter evaluates the password based on length and character variety.
 
-## 📸 Screenshot
-
-*(Add a screenshot or GIF of the app here)*
-
 ## 🙏 Acknowledgment
 
 Built as part of the **Minor Project** under the **InternsElite** Program.
